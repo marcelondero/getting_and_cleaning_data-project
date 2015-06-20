@@ -7,7 +7,7 @@ The object of this repo is submit a tidy data as requisite to complete the Getti
 ### Summary
 This project is useful to train the ability of collect and clean a data set and transform it in a tidy data set that can be used for further analysis.
 
-### Code objective
+### Code's objective
 The code's objective is to getting the data, keep just the variables which contains 'mean' and 'std' in its names and calculate the mean of each variable grouping for two other variables.
 
 ###  Step by step of the code
